@@ -16,6 +16,7 @@ smtp   stream    tcp    nowait    root    /path/to/fake-server.php
 ## Usage
 
 ```php
+#!/usr/bin/php
 <?php
 require('fakeSMTP.php');
 
