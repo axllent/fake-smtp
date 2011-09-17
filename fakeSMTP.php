@@ -1,4 +1,3 @@
-#!/usr/bin/php
 <?php
 /**
  * fakeSMTP - A PHP / inetd fake smtp server.
